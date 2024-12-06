@@ -1,0 +1,19 @@
+.GameControls-count-p {
+	margin-top: 0px;
+	color: white;
+}
+
+.GameControls-count {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.GameControls-stop {
+	background-color: black;
+	color: white;
+}
+
+.GameControls-btns {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
